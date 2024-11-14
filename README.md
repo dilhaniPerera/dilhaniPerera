@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Dilhani pereera  and I'm a  Student at SlIIT</h2>
+<h2 align="left">Hi 👋! My name is Dilhani perera  and I'm a  Student at SlIIT</h2>
 
 ###
 
